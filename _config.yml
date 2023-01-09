@@ -51,7 +51,7 @@ darkmode: true
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content:  # this will include new lines to allow paragraphs
 
-This place will be populated when I have the motivation.
+
 
 #content:
   #- title: Projects # Title for the section
